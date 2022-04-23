@@ -10,7 +10,7 @@ My Linkedin Prodile :- [Laukit Mandal](https://www.linkedin.com/in/laukit-mandal
 * Basic Python Coding.
 * Some Inbuild Libraries [Python].
 
-# Here Implemented 👇
+# Implemented 👇
 * Array [Python List]
 * Linked List
 * Hash Map
