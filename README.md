@@ -1,4 +1,4 @@
-# Data-Structure-With-Python
+# Data-Structures-With-Python
 
 # Author 
 * Laukit Mandal
