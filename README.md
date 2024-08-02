@@ -18,3 +18,4 @@ My Mail Id :- laukitmandal02@gmail.com
 * Stack
 * Queue
 * Tree
+* Binary and Linear Search
